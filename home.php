@@ -42,12 +42,12 @@
               <div class="row">
                 <div class="col-6 d-flex justify-content-center">
                   <a href="abrir_chamado.php">
-                  <img src="abrir_chamado.png" width="70" height="70">
+                  <img src="img_abrir_chamado.png" width="70" height="70">
                   </a>                  
                 </div>
                 <div class="col-6 d-flex justify-content-center">
                   <a href="consultar_chamado.php">
-                  <img src="consultar_chamado.png" width="70" height="70">                                    
+                  <img src="img_consultar_chamado.png" width="70" height="70">                                    
                   </a>                  
                 </div>                
               </div>
