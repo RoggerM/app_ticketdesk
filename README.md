@@ -5,17 +5,26 @@ Site com autenticação em dois níveis de usuários (Administrador, Usuário pa
 No caso do Usuário padrão o sistema irá mostrar somente os chamados abertos por ele próprio.
 E o Administrador terá acesso a todos os chamados abertos.
 
-Login: adm@teste.com   Conta Administrador
+Login: adm@teste.com   
 Senha: 123456
+Conta Administrador
 
-Login: user@teste.com   Conta Usuário padrão
-Senha: 123456
 
-Login: user2@teste.com   Conta Usuário padrão
+Login: user@teste.com   
 Senha: 123456
+Conta Usuário padrão
 
-Login: user3@teste.com   Conta Usuário padrão
-Senha: 123456
 
-Login: user4@teste.com   Conta Usuário padrão
+Login: user2@teste.com   
 Senha: 123456
+Conta Usuário padrão
+
+
+Login: user3@teste.com   
+Senha: 123456
+Conta Usuário padrão
+
+
+Login: user4@teste.com   
+Senha: 123456
+Conta Usuário padrão
