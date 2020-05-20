@@ -6,25 +6,25 @@ No caso do Usuário padrão o sistema irá mostrar somente os chamados abertos p
 E o Administrador terá acesso a todos os chamados abertos.
 
 Login: adm@teste.com   
-Senha: 123456
-Conta Administrador
+Senha: 123456    ||
+Conta Administrador  
 
 
 Login: user@teste.com   
-Senha: 123456
+Senha: 123456    ||
 Conta Usuário padrão
 
 
 Login: user2@teste.com   
-Senha: 123456
+Senha: 123456    ||
 Conta Usuário padrão
 
 
 Login: user3@teste.com   
-Senha: 123456
+Senha: 123456    ||
 Conta Usuário padrão
 
 
 Login: user4@teste.com   
-Senha: 123456
+Senha: 123456    ||
 Conta Usuário padrão
