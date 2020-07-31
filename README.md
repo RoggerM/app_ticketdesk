@@ -1,9 +1,5 @@
 # app_ticketdesk
-Site para abertura de chamados Help Desk com frontend feito em Bootstrap4 e backend em PHP.
-
-Site com autenticação em dois níveis de usuários (Administrador, Usuário padrão)
-No caso do Usuário padrão o sistema irá mostrar somente os chamados abertos por ele próprio.
-E o Administrador terá acesso a todos os chamados abertos.
+ Projeto feito em HTML, CSS, Bootstrap e PHP. O site simula um sistema de abertura de chamados para uma equipe de help-desk, no site existem dois níveis de usuários (Administrador e Usuário padrão) onde o usuário padrão pode abrir um chamado e acompanhar o processo de seu chamado na aba de consulta e o administrador têm o acesso a todos os chamados em ordem de abertura dos tickets.
 
 Login: adm@teste.com   
 Senha: 123456    ||
